@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+
+
+body{
+    padding: 0%;
+    margin:0%;
+    font-family: 'lato';
+
+}
+
+
+.navbar-brand{
+        font-family: "pacifico";
+        font-size: 35px;
+        color: lightcoral !important;
+         
+}
+.nav-link{
+    font-size: 16px;
+    margin: :15px;
+    color: black !important;
+    font-family:'robot condensed';
+
+}
+.nav-link:hover{
+color: #00E8E8 !important;
+
+
+}
+.active .nav-link{
+    color:#00E8E8 !important;
+
+}
+
+.menu-right-btn{
+    padding: 13px 46px;
+    margin-right: 4% ;
+    background-color: transparent ;
+    transition: all 300ms ease-in;
+
+}
+.menu-right-btn{
+    color:white;
+    background-color: #00E8E8;
+
+}
+.site-content{
+    background-image: url('Image/1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
